@@ -53,7 +53,7 @@ aigc_homework/
 prompt 为"A cozy campfire at night with glowing embers and fireflies." 生成的视频：
 
 <div align="center">
-  <video src="https://github.com/liushuchun/aigc_homework/results/video.mp4" width="70%" poster=""> </video>
+  <video src="https://github.com/liushuchun/aigc_homework/blob/main/results/video.mp4" width="70%" poster=""> </video>
 </div>
 
 
