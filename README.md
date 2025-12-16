@@ -48,3 +48,8 @@ aigc_homework/
 - 生成的 MP4 视频保存在 `results/video.mp4`（默认 16 FPS，81 帧，对应约 5 秒）。
 - 当前仓库内的 `results/video.mp4` 是占位演示视频，跑通脚本后会被真实模型输出覆盖。
 
+演示视频（占位输出）：
+
+<video src="results/video.mp4" controls width="640">
+  Your browser does not support the video tag.
+</video>
