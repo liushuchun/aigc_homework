@@ -49,11 +49,6 @@ aigc_homework/
 - 生成的 MP4 视频保存在 `results/video.mp4`（默认 16 FPS，81 帧，对应约 5 秒）。
 - 当前仓库内的 `results/video.mp4` 是占位演示视频，跑通脚本后会被真实模型输出覆盖。
 
-演示视频：
-prompt 为"A cozy campfire at night with glowing embers and fireflies." 生成的视频：
 
-<div align="center">
-  <video src="https://github.com/liushuchun/aigc_homework/blob/main/results/video.mp4" width="70%" poster=""> </video>
-</div>
 
 
